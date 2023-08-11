@@ -18,7 +18,14 @@ font-size: 3em;
 color: red;
 `
 export const MovieImage = styled.img`
-width: 250px;
 border: 2px solid white;
 border-radius: 25px;
+width: 250px;
+
 `
+
+// export const Ratings = styled.div`
+// display: flex;
+// border: 4px solid yellow;
+// height: 
+// `
